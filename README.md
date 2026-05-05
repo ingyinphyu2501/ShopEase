@@ -10,7 +10,6 @@ A full-featured Point of Sale (POS) e-commerce application built with Laravel, f
 - **Order Management**: Create orders, view order history, make payments
 - **Product Ratings & Comments**: Rate and review products
 - **Contact System**: Send inquiries and feedback
-- **AI Chatbot**: Get product recommendations and support
 - **Social Login**: Sign in with Google and GitHub
 
 ### Admin Features
